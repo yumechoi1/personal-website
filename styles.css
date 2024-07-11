@@ -48,3 +48,14 @@
     border-radius: 0.75rem;
   }
 
+
+.resume-section {
+    padding: 60px 0;
+}
+
+.profile-img2 {
+    width: 100%;
+    max-width: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
