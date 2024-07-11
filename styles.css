@@ -22,7 +22,7 @@
 }
 
 
-#header-wrapper {
+.pink-wrapper {
     position: relative;
     background-image: url("./images/header.svg");
     background-image: url("./images/overlay.png"), url("./images/header.svg"), -moz-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
